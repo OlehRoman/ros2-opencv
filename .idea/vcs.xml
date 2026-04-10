@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MG400_ROS2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlayStation-JoyInterface-ROS2" vcs="Git" />
+  </component>
+</project>
